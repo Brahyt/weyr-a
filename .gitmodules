@@ -1,0 +1,6 @@
+[submodule "weyr-server"]
+	path = weyr-server
+	url = git@github.com:Brahyt/weyr-server.git
+[submodule "weyr-client"]
+	path = weyr-client
+	url = https://github.com/Brahyt/weyr-client
